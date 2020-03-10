@@ -1,0 +1,7 @@
+/.idea
+/.credentials.conf
+/.venv
+/build
+/dist
+/tf_cloud_cli.egg-info
+*.pyc
