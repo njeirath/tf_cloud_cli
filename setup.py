@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="tf_cloud_cli",
-    version="0.0.0",
+    version="0.0.1",
     author="njeirath",
     description="A CLI to the Terraform Cloud API",
     long_description=long_description,
