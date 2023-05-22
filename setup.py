@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/njeirath/tf_cloud_cli",
     packages=find_packages(),
     py_modules=["cli"],
-    install_requires=["click==7.1.1", "requests==2.23.0"],
+    install_requires=["click==7.1.1", "requests==2.31.0"],
     entry_points={"console_scripts": ["tf_cloud_cli = cli:main"]},
     classifiers=[
         "Programming Language :: Python :: 3",
